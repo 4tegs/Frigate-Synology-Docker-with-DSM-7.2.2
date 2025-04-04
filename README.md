@@ -3,6 +3,20 @@
 <p>How to run a frigate docker on a Synology with DSM 7.2? </p>
 <p>The frigate documentation is somehow outdated. So here it is what you need to do.</p>
 
+<h2>Prerequisites</h2>
+
+<ul>
+<li>A Synology + series that is able to run Docker </li>
+<li>You need to know how to manage </li>
+<ul>
+<li>Synology Docker </li>
+<li>Reading logs from Synology Docker </li>
+<li>Synology Web Station setting up of name or port based access.</li>
+<li>External Access via DDNS </li>
+</ul>
+</ul>
+
+
 <h2>Setting up your Synology environment</h2>
 <p>
 <img src="./images/01_frigate_docker_synology.jpg" alt="Meter Top Cover Part 1" style="width:90%"/>
