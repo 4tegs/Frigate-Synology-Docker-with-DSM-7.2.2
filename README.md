@@ -7,11 +7,11 @@
 
 <ul>
 <li>A Synology + series that is able to run Docker </li>
-<li>You need to know how to manage </li>
+<li>Certain topics will not be covered by this documentation. You need to know how to manage:</li>
 <ul>
-<li>Synology Docker </li>
+<li>Synology Container Manager Project and Container handling.</li>
 <li>Reading logs from Synology Docker </li>
-<li>Synology Web Station setting up of name or port based access.</li>
+<li>Synology Web Station. Setting name or port based access.</li>
 <li>External Access via DDNS </li>
 </ul>
 </ul>
