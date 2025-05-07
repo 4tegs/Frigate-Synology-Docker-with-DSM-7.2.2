@@ -3,6 +3,11 @@
 <p>How to run a frigate docker on a Synology with DSM 7.2? </p>
 <p>The frigate documentation is somehow outdated. So here it is what you need to do.</p>
 
+<h2>Preword</h2>
+<p>
+Even if you can run Frigate in a container on your Synology, it puts a lot of CPU load on it. I recommend to host Frigate on Synology for testing purposes only.
+</p>
+
 <h2>Prerequisites</h2>
 
 <ul>
